@@ -130,7 +130,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1550.pdf) [[code]](https://github.com/leodotnet/ei)
 
-- **[EMNLP-19]**: Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf)
+- **[EMNLP-19]**: Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf) [[code]](https://github.com/GeneZC/PWCN)
 
 - **[EMNLP-19]**: Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1342.pdf) [[code]](https://github.com/tanxw17/DATGRU)
 
@@ -141,6 +141,7 @@ A paper list for aspect based sentiment analysis.
 - **[arXiv-19]**:  A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution. [[paper]](https://arxiv.org/pdf/1911.01460.pdf)
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf) 
+- **[AAAI-20]**: Replicate , Walk , and Stop on Syntax an Effective Neural Network Model for Aspect-Level Sentiment Classification. [[code]](https://github.com/hiyouga/RepWalk) 
 
 ### Aspect Extraction
 
